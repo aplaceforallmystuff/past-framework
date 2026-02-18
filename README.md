@@ -8,6 +8,8 @@
 
 ---
 
+![The PAST Framework](docs/images/past-framework-overview.png)
+
 Most AI implementations fail before they start — not because of bad technology, but because of unclear strategy.
 
 The PAST Framework is a thinking framework for AI adoption that works at every level: from organizational strategy down to individual prompt engineering. It asks four questions that determine success or failure:
