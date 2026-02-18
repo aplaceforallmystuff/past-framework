@@ -12,11 +12,11 @@ Most AI implementations fail before they start—not because of bad technology, 
 
 Walk into any organization today and you'll see the pattern: Marketing has their ChatGPT subscription. Sales discovered a different AI tool for lead scoring. Customer service is experimenting with chatbots. HR tests resume screening. The finance team bought yet another solution.
 
-Each department discovered AI independently. Each chose different tools. Each measures different metrics. And none of them are talking to each other.
+Each department discovered AI independently, chose different tools, measures different metrics—and none of them are talking to each other.
 
 **The result?** Millions spent on tools that don't integrate. Teams working at cross-purposes. Data that can't flow between systems. Leadership that can't measure AI ROI because there's no coherent strategy to measure.
 
-This isn't a technology problem. It's a strategy problem.
+It's a strategy problem, not a technology problem.
 
 **The question everyone asks:** "How can we use AI?"
 
@@ -26,14 +26,14 @@ This shift—from technology-first to outcome-first thinking—is where the PAST
 
 ### What Makes PAST Different
 
-The PAST Framework isn't just a corporate strategy checklist. It's a thinking framework that works at every level:
+The PAST Framework is a thinking framework that works at every level—not just a corporate strategy checklist:
 
 - **Organizational Strategy:** Enterprise AI implementation and governance
 - **Team Workflows:** Department-specific process optimization
 - **Individual Productivity:** Personal workflow enhancement
 - **Prompt Engineering:** Creating effective AI interactions
 
-The same four questions that guide billion-dollar AI implementations also create better prompts for daily tasks. This versatility is what makes PAST powerful—it's not just a strategy tool, it's a thinking framework that scales from individual tasks to organizational transformation.
+The same four questions that guide billion-dollar AI implementations also create better prompts for daily tasks. This versatility is what makes PAST powerful—a thinking framework that scales from individual tasks to organizational transformation.
 
 ### Who This Guide Is For
 
@@ -392,7 +392,7 @@ Every AI tool can do dozens of things. Every department can imagine hundreds of 
 
 Without clear scope, you'll try to solve everything and succeed at nothing.
 
-**Research finding:** AI leaders pursue **half as many opportunities** but scale **more than twice as many successfully** as struggling peers. Tight scope isn't limitation—it's strategic focus that enables deep implementation.
+**Research finding:** AI leaders pursue **half as many opportunities** but scale **more than twice as many successfully** as struggling peers. Tight scope is strategic focus that enables deep implementation.
 
 ### The Five Scope Dimensions
 
@@ -571,7 +571,7 @@ If you can't draw clear boundaries, your scope is too broad. Narrow until you ca
 
 AI implementations succeed when they feel natural within existing organizational culture. They fail when they fight against it.
 
-An AI tool that requires formal documentation in a startup culture will be ignored. An AI assistant with casual output in a conservative law firm will be rejected. Tone isn't just about words—it's about cultural alignment.
+An AI tool that requires formal documentation in a startup culture will be ignored. An AI assistant with casual output in a conservative law firm will be rejected. Tone is about cultural alignment, not just words.
 
 But there's a deeper challenge: **AI-generated content can sound generic, indistinguishable from everyone else's AI output.** This "AI slop" problem undermines trust, damages brand differentiation, and signals lazy thinking to audiences.
 
@@ -760,7 +760,7 @@ If your AI outputs could come from any organization in your industry, your tone 
 
 ### Why PAST Works for Prompts
 
-The same framework that guides organizational AI strategy creates effective prompts. This isn't coincidence—the underlying questions remain constant regardless of scale:
+The same framework that guides organizational AI strategy creates effective prompts—because the underlying questions remain constant regardless of scale:
 
 - **Purpose:** What are you trying to accomplish?
 - **Audience:** Who receives or benefits from this?
@@ -1071,7 +1071,7 @@ You don't need different frameworks for different contexts. PAST scales because 
 
 ### What Makes PAST Powerful
 
-**Simple Enough to Remember:** Four questions. Purpose, Audience, Scope, Tone. You can apply this in 30 seconds.
+**Simple Enough to Remember:** Four questions—Purpose, Audience, Scope, Tone—that you can apply in 30 seconds.
 
 **Comprehensive Enough to Prevent Major Mistakes:** These four elements catch the most common AI implementation failures before they start.
 
@@ -1101,7 +1101,7 @@ You now have WHAT and WHY (from PAST). You need HOW and WHEN. See the **SHAPE Me
 
 **Strategic clarity beats random experimentation.** The organizations succeeding with AI aren't the ones with the most tools—they're the ones with the clearest understanding of what they're trying to achieve.
 
-**Framework thinking beats tool chasing.** New AI tools appear weekly. PAST thinking remains constant. Invest in the thinking, not just the tools.
+**Framework thinking beats tool chasing.** New AI tools appear weekly, but PAST thinking remains constant. Invest in the thinking, not just the tools.
 
 **PAST works because the questions never change.** Whether you're defining organizational strategy or writing a single prompt:
 

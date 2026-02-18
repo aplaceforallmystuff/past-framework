@@ -23,7 +23,7 @@ The PAST Framework is a thinking framework for AI adoption that works at every l
 
 Walk into any organization today and you'll see the pattern: Marketing has their ChatGPT subscription. Sales discovered a different AI tool for lead scoring. Customer service is experimenting with chatbots. HR tests resume screening.
 
-Each department discovered AI independently. Each chose different tools. Each measures different metrics. None of them are talking to each other.
+Each department discovered AI independently, chose different tools, measures different metrics — and none of them are talking to each other.
 
 **The question everyone asks:** "How can we use AI?"
 
