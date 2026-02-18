@@ -3,6 +3,8 @@
 **From Random AI Experiments to Strategic Clarity**
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/past-framework?style=flat-square)](https://github.com/aplaceforallmystuff/past-framework/stargazers)
+[![Framework](https://img.shields.io/badge/Framework-AI%20Strategy-teal)](https://github.com/aplaceforallmystuff/past-framework)
 
 ---
 
